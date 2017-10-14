@@ -1,0 +1,17 @@
+{
+  "name": "prodash",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "delay": "^2.0.0",
+    "jest": "^21.2.1",
+    "p-defer": "^1.0.0"
+  }
+}
